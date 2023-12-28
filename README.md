@@ -13,7 +13,7 @@
 This project aims to create an interaction platform encompassing course content, learning materials, videos, assignments, and grading processes between instructors and students. It aims to provide students with access to course resources, allowing instructors to assign, monitor, evaluate assignments, and track student performance through a grading system.
 
 ### Features
-#### Instructor Panel:
+#### Trainer Panel:
 - Creation and management of courses
 - Uploading and sharing course materials
 - Assignment creation and allocation to students
